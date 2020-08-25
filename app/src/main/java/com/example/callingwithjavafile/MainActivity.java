@@ -19,7 +19,7 @@ private TextView varage;
         variable.setText("Taj");
 
       varage=(TextView) findViewById(R.id.Name2nd);
-      varage.setText("27");
+      varage.setText("22");
 
 
 
